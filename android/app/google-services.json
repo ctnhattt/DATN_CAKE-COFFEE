@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "750593247386",
+    "firebase_url": "https://datn-628de-default-rtdb.firebaseio.com",
+    "project_id": "datn-628de",
+    "storage_bucket": "datn-628de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750593247386:android:03463e7432854472e0b723",
+        "android_client_info": {
+          "package_name": "com.example.do_an_tot_nghiep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2nCHDw_dY15KiBF_o06s0kSthwJ6MMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
